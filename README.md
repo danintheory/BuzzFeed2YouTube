@@ -1,5 +1,5 @@
 # BuzzFeed2YouTube
-Takes a BuzzFeed list and convert it to a YouTube video. For humor. 
+Takes a BuzzFeed list and converts it to a YouTube video. For humor. 
 
 For example 
 
