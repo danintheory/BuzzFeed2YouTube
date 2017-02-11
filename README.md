@@ -1,10 +1,12 @@
-# buzzfeed2youtube
-Takes a buzzfeed list and convert it to a youtube video. For humor. 
+# BuzzFeed2YouTube
+Takes a BuzzFeed list and convert it to a YouTube video. For humor. 
 
 For example 
 
-`https://www.buzzfeed.com/joannaborns/incorrect-food` 
+[20 slightly incorrect names for food - BuzzFeed](https://www.buzzfeed.com/joannaborns/incorrect-food) 
 
 becomes
 
-`https://www.youtube.com/watch?v=6HXsTrNGHHg1`
+[20 slightly incorrect names for food - YouTube](https://www.youtube.com/watch?v=6HXsTrNGHHg1)
+
+which is much funnier.
